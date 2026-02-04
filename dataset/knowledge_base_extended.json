@@ -1,0 +1,449 @@
+[
+    {
+        "id": "GEN_001",
+        "source": "Code de la Route Tunisien / ATTT",
+        "content": "Toute plaque d'immatriculation doit être lisible, propre et fixée de manière inamovible au véhicule.",
+        "tags": [
+            "général",
+            "conformité"
+        ]
+    },
+    {
+        "id": "ORD_001",
+        "source": "Règlement ATTT",
+        "content": "Les plaques ordinaires tunisiennes sont composées de caractères blancs sur un fond noir. Elles suivent le format 'numéro تونس numéro'.",
+        "tags": [
+            "ordinaire",
+            "format",
+            "couleur"
+        ]
+    },
+    {
+        "id": "ORD_002",
+        "source": "Jurisite Tunisie",
+        "content": "La mention centrale doit impérativement être 'تونس' en langue arabe. L'usage de tirets ou de translittérations (ex: TUNIS) est une cause de non-conformité.",
+        "tags": [
+            "ordinaire",
+            "mention",
+            "non-conforme"
+        ]
+    },
+    {
+        "id": "LOC_001",
+        "source": "Décret ATTT 2019",
+        "content": "Les véhicules de location utilisent des plaques à fond noir identiques aux véhicules privés, mais doivent obligatoirement arborer un autocollant vert circulaire avec la lettre 'L' blanche.",
+        "tags": [
+            "location",
+            "autocollant",
+            "L"
+        ]
+    },
+    {
+        "id": "LOC_002",
+        "source": "Contrôle Technique ATTT",
+        "content": "L'absence de l'autocollant 'L' sur un véhicule enregistré comme voiture de location est une infraction au code de la route.",
+        "tags": [
+            "location",
+            "infraction"
+        ]
+    },
+    {
+        "id": "GOV_001",
+        "source": "Code de la Route / Article 82",
+        "content": "Les plaques à fond rouge et caractères blancs sont strictement réservées aux véhicules de l'administration et des organismes publics.",
+        "tags": [
+            "gouvernement",
+            "rouge",
+            "article 82"
+        ]
+    },
+    {
+        "id": "GOV_002",
+        "source": "ATTT / Formats Ministériels",
+        "content": "Le format étatique est 'XX XXXXXX'. Les deux chiffres initiaux identifient le ministère ou l'organisme public propriétaire du véhicule.",
+        "tags": [
+            "gouvernement",
+            "format",
+            "ministère"
+        ]
+    },
+    {
+        "id": "SPE_001",
+        "source": "Régime Temporaire",
+        "content": "Les véhicules sous régime spécial ou d'importation temporaire portent des plaques avec la mention 'RS' en blanc sur fond noir.",
+        "tags": [
+            "RS",
+            "spécial",
+            "temporaire"
+        ]
+    },
+    {
+        "id": "ANO_001",
+        "source": "Manuel de l'Agent de Circulation",
+        "content": "Une plaque est considérée comme 'non reconnue' si l'OCR ne parvient pas à extraire les chiffres ou si la mention 'تونس' est partiellement effacée.",
+        "tags": [
+            "anomalie",
+            "technique"
+        ]
+    },
+    {
+        "id": "EXT_001",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°1 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_002",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°2 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_003",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°3 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_004",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°4 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_005",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°5 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_006",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°6 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_007",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°7 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_008",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°8 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_009",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°9 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_010",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°10 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_011",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°11 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_012",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°12 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_013",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°13 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_014",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°14 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_015",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°15 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_016",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°16 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_017",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°17 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_018",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°18 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_019",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°19 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_020",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°20 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_021",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°21 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_022",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°22 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_023",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°23 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_024",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°24 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_025",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°25 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_026",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°26 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_027",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°27 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_028",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°28 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_029",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°29 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_030",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°30 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_031",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°31 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_032",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°32 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_033",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°33 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_034",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°34 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_035",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°35 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_036",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°36 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_037",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°37 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_038",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°38 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_039",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°39 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    },
+    {
+        "id": "EXT_040",
+        "source": "Archive ATTT / Jurisprudence",
+        "content": "Précision technique n°40 sur le positionnement des caractères et les dimensions des chiffres tunisiens (norme 2025).",
+        "tags": [
+            "technique",
+            "dimensions"
+        ]
+    }
+]

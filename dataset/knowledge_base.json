@@ -1,0 +1,55 @@
+[
+    {
+        "id": "RULE_001",
+        "source": "ATTT / Format Ordinaire",
+        "content": "Les plaques d'immatriculation ordinaires en Tunisie doivent afficher des chiffres blancs sur un fond noir. Le format obligatoire est : numéro, suivi de la mention 'تونس' en arabe, suivi d'un numéro.",
+        "metadata": {
+            "type": "format",
+            "color": "black"
+        }
+    },
+    {
+        "id": "RULE_002",
+        "source": "ATTT / Location",
+        "content": "Pour les véhicules de location, le format visuel est identique aux plaques ordinaires (fond noir), mais avec l'ajout obligatoire d'un autocollant vert portant la lettre 'L'.",
+        "metadata": {
+            "type": "location",
+            "sticker": "L"
+        }
+    },
+    {
+        "id": "RULE_003",
+        "source": "Code de la Route / Art. 82",
+        "content": "Les plaques à fond rouge avec des caractères blancs sont exclusivement réservées aux véhicules de l'État et des administrations publiques.",
+        "metadata": {
+            "type": "government",
+            "color": "red"
+        }
+    },
+    {
+        "id": "RULE_004",
+        "source": "ATTT / Format État",
+        "content": "Le format des plaques gouvernementales est 'XX XXXXXX', où les deux premiers chiffres (XX) désignent le code du ministère concerné.",
+        "metadata": {
+            "type": "government",
+            "format": "XX XXXXXX"
+        }
+    },
+    {
+        "id": "RULE_005",
+        "source": "Normes de Conformité",
+        "content": "Une plaque est jugée non conforme si elle utilise des tirets ou une translittération au lieu de la mention centrale 'تونس' en caractères arabes.",
+        "metadata": {
+            "issue": "text_format"
+        }
+    },
+    {
+        "id": "RULE_006",
+        "source": "Régime Spécial",
+        "content": "Les véhicules sous régime spécial ou temporaire utilisent des séries spécifiques comme 'RS' avec des caractères blancs sur fond noir.",
+        "metadata": {
+            "type": "special",
+            "series": "RS"
+        }
+    }
+]
