@@ -103,26 +103,7 @@ To ensure high performance, the project is measured using:
 
 ---
 
-## 🎓 Academic Context
 
-* 
-**Institution:** International Institute of Technology (IIT) Sfax.
-
-
-* 
-**Course:** Advanced AI (Generative AI / Computer Vision).
-
-
-* 
-**Level:** 3rd Year Computer Engineering.
-
-
-* 
-**Instructor:** Taoufik Ben Abdallah.
-
-
-* 
-**Academic Year:** 2025-2026.
 
 
 
