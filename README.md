@@ -1,6 +1,9 @@
 # Tunisian-Plate-Recognition
 # SmartALPR: Tunisian License Plate Recognition
 
+
+<img width="1914" height="799" alt="image" src="https://github.com/user-attachments/assets/891d3e46-9613-4e99-9485-edfc11c8a55b" />
+
 **SmartALPR** is an advanced AI project developed for the **International Institute of Technology (IIT) Sfax**. It combines **Computer Vision** and **Generative IA (RAG/LLM)** to create a local solution specifically adapted to the unique formats of Tunisian license plates.
 
 ---
