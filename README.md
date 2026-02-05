@@ -7,7 +7,8 @@
 **SmartALPR** is an advanced AI project developed for the **International Institute of Technology (IIT) Sfax**. It combines **Computer Vision** and **Generative IA (RAG/LLM)** to create a local solution specifically adapted to the unique formats of Tunisian license plates.
 
 ---
-![Uploading image.png…]()
+
+<img width="1911" height="771" alt="image" src="https://github.com/user-attachments/assets/36af940a-fddb-4544-be13-ef43b8d6e7fb" />
 
 ## 📋 Project Overview
 
